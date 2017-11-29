@@ -7,7 +7,7 @@ country: "us"
 language: "en"     
 latlng: "44.365994,-68.196389"      
 humandate: "Jan 18, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-01-18     # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-01-18        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Sue McClatchy", "Dan Gatti"] 
@@ -188,6 +188,30 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 -->
 <h2 id="schedule">Schedule</h2>
 
+<div class="row">
+    <div class="col-md-6">
+        <h3>Thursday, January 18</h3>
+            <table class="table table-striped">
+                <tr> <td>09:00</td>  <td><a href="{{site.swc_pages}}/01-introduction/">Introduction</a></td> </tr>
+                <tr> <td>09:30</td>  <td><a href="{{site.swc_pages}}/02-input-file-format/">Input File Format</a></td> </tr>
+                <tr> <td>10:00</td>  <td><a href="{{site.swc_pages}}/03-calc-genoprob/">Calculating Genotype Probabilities</a></td> </tr>
+                <tr> <td>10:45</td>  <td>Coffee</td> </tr>
+                <tr> <td>11:00</td>  <td><a href="{{site.swc_pages}}/04-calc-kinship/">Calculating A Kinship Matrix</a></td> </tr>
+                <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
+                <tr> <td>13:00</td>  <td><a href="{{site.swc_pages}}/05-special-x-covar/">Special covariates for the X chromosome</a></td> </tr>
+                <tr> <td>13:30</td>  <td><a href="{{site.swc_pages}}/06-perform-genome-scan/">Performing a genome scan</a></td> </tr>
+                <tr> <td>14:00</td>  <td><a href="{{site.swc_pages}}/07-find-lod-peaks/">Finding LOD peaks</a></td> </tr>
+                <tr> <td>14:30</td>  <td>Coffee</td> </tr>
+                <tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/08-perform-genome-scan-lmm/">Performing a genome scan with a linear mixed model</a></td> </tr>
+                <tr> <td>15:00</td>  <td><a href="{{site.swc_pages}}/09-perform-genome-scan-bin/">Performing a genome scan with binary traits</a></td> </tr>
+                <tr> <td>15:15</td>  <td><a href="{{site.swc_pages}}/10-perform-perm-test/">Performing a permutation test</a></td> </tr>
+                <tr> <td>15:30</td>  <td><a href="{{site.swc_pages}}/11-est-qtl-effects/">Estimated QTL effects</a></td> </tr>
+                <tr> <td>15:45</td>  <td><a href="{{site.swc_pages}}/12-snp-assoc/">SNP association</a></td> </tr>
+                <tr> <td>16:00</td>  <td><a href="{{site.swc_pages}}/15-qtl-in-do/">QTL analysis in Diversity Outbred Mice</a></td> </tr>
+                <tr> <td>16:45</td>  <td>Wrap-up</td> </tr>
+            </table>
+    </div>
+</div>
 
 <!--
   Collaborative Notes
