@@ -207,7 +207,7 @@ eventbrite: 40885633029          # optional: alphanumeric key for Eventbrite reg
                 <tr> <td>14:00</td>  <td><a href="{{site.swc_pages}}/11-est-qtl-effects/">Estimated QTL effects</a></td> </tr>
                 <tr> <td>14:15</td>  <td><a href="{{site.swc_pages}}/12-snp-assoc/">SNP association</a></td> </tr>
                 <tr> <td>14:30</td>  <td>Coffee</td> </tr>
-                <tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/15-qtl-in-do/">QTL analysis in Diversity Outbred Mice</a></td> </tr>
+                <tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/13-qtl-in-do/">QTL analysis in Diversity Outbred Mice</a></td> </tr>
                 <tr> <td>16:45</td>  <td>Wrap-up</td> </tr>
             </table>
     </div>
