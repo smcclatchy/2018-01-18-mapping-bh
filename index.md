@@ -13,7 +13,7 @@ enddate: 2018-01-18        # machine-readable end date for the workshop in YYYY-
 instructor: ["Sue McClatchy", "Dan Gatti"] 
 helper: ["Gregg TeHennepe"]     
 email: ["susan.mcclatchy@jax.org"]    
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: https://public.etherpad-mozilla.org/p/2018-01-18-mapping-bh           
 eventbrite: 40885633029          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
